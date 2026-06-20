@@ -289,15 +289,3 @@ This project is licensed under the MIT License.
 Building the future by solving the problems everyone else ignored.
 
 </div>
-```
-
-A GitHub-ready improvement would be to add:
-
-* Company logo/banner at the top
-* Badges (License, Build, Version, Contributors)
-* Architecture diagrams
-* Product showcase screenshots
-* Links to KAMPYN and SALVIORIS repositories
-* Organization-wide contribution guidelines (`CONTRIBUTING.md`)
-* Security policy (`SECURITY.md`)
-* Code of conduct (`CODE_OF_CONDUCT.md`)
